@@ -1,4 +1,4 @@
-# 今日诗词安卓 SDK
+# Todays Poetry Android SDK
 
 README: [English](https://github.com/xenv/jinrishici-sdk-android/blob/master/README_EN.md "English") | [中文](https://github.com/xenv/jinrishici-sdk-android/blob/master/README.md "中文")
 
