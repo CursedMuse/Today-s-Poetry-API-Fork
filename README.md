@@ -1,6 +1,6 @@
 # Todays Poetry Android SDK
 
-README: [English](https://github.com/xenv/jinrishici-sdk-android/blob/master/README_EN.md "English") | [中文](https://github.com/xenv/jinrishici-sdk-android/blob/master/README.md "中文")
+README: [English](https://github.com/CursedMuse/Today-s-Poetry-API-Fork/blob/master/README.md)
 
 ![](https://img.shields.io/github/last-commit/xenv/jinrishici-sdk-android.svg) ![](https://img.shields.io/github/release-date/xenv/jinrishici-sdk-android.svg) ![](https://img.shields.io/github/license/xenv/jinrishici-sdk-android.svg) ![](https://img.shields.io/github/stars/xenv/jinrishici-sdk-android.svg?label=Stars&style=social) ![](https://img.shields.io/github/forks/xenv/jinrishici-sdk-android.svg?label=Fork&style=social)
 
